@@ -135,3 +135,4 @@ dump.rdb
 # Devenv and Nix
 .devenv.flake.nix
 .devenv
+.pre-commit-config.yaml

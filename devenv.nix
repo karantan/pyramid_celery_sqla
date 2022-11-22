@@ -31,5 +31,6 @@
   pre-commit.hooks = {
     nixpkgs-fmt.enable = true;
     shellcheck.enable = true;
+    black.enable = true;
   };
 }

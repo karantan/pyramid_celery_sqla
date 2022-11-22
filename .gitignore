@@ -127,3 +127,11 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+.devenv*
+
+# Redis
+dump.rdb
+
+# Devenv and Nix
+.devenv.flake.nix
+.devenv
